@@ -1,0 +1,30 @@
+🧭️Visão geral 75% completo:
+	✅️Aba filmes completamente funcional.
+		•Cadastrar novo filme.
+		•Listar todos os filmes.
+		•Filtrar filmes por nome, ano ou genero.
+		•Limpar filtro da lista de filmes.
+		•Ordenar filmes por id ou nome.
+		•Atualiazar cadastro de um filme.
+		•Desativar cadastro de um filme.
+		•Voltar ao menu principal.
+
+	🚧️Aba clientes em andamento - 50%.
+		•Listar todos os clientes.
+		•Filtrar clientes por CPF ou nome.
+		•Ordenar clientes por CPF ou nome.
+		•Limpar filtro da lista de clientes.
+		•Voltar ao menu principal.
+		🗓️Próximas atividades:
+			•Cadastrar novo cliente.
+			•Atualizar cadastro de cliente.
+			•Desativar cadastro de cliente.
+			•Excluir cadastro de cliente.
+	
+	🚧️Aba filmes completamente funcional.
+		🗓️Próximas atividades:
+			•Cadastrar novo pedido.
+			•Listar todos os pedidos.
+			
+Obs:
+	•Todas as funcionalidades em si (com exeção de realizar pedido) estão prontas, restando apenas implementar nos casos específicos.
